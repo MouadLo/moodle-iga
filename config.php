@@ -45,7 +45,7 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8mb4_unicode_ci',
 );
 
-$CFG->wwwroot   = '3.89.145.255';
+$CFG->wwwroot   = 'http://moodle-iga-1503938063.us-east-1.elb.amazonaws.com';
 $CFG->dataroot  = '/var/www/moodle/data';
 $CFG->admin     = 'admin';
 
